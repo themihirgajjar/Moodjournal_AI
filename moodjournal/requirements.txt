@@ -1,0 +1,4 @@
+# Libraries to import
+
+pip install DateTime
+pip install vaderSentiment
